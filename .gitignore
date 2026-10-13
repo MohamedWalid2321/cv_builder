@@ -1,1 +1,14 @@
 AI_CV_Builder_Workflow.md
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-*/
+.test-temp/
+.env
+.env.*
+output/*
+!output/.gitkeep
+tests/
+.vscode/
+
